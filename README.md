@@ -1,6 +1,6 @@
-# Jysics - Physics Engine in Java
+# Jysics - 2D Physics Engine in Java
 
-Jysics is a physics engine written in Java that simulates the behavior of balls and rectangles in a 2D environment. It includes features such as collision detection, friction, and gravity.
+Jysics is a physics engine written in Java with JavaFx that simulates the behavior of balls and rectangles in a 2D environment. It includes features such as collision detection, friction, and gravity.
 
 ## Installation
 
